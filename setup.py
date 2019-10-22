@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 
 import subprocess
 import sys
@@ -36,6 +36,7 @@ setup(
     author_email='armin.ronacher@active-4.com',
     license='BSD',
     url='http://babel.pocoo.org/',
+    
 
     classifiers=[
         'Development Status :: 5 - Production/Stable',
